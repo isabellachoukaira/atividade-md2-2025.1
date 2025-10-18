@@ -1,5 +1,5 @@
-//isabella Mendes Choukaira 231037692
-//Yasmin Moreira Do Nascimento 231012316
+//Isabella Mendes Choukaira - 231037692
+//Yasmin Moreira Do Nascimento - 231012316
 
 #include <stdio.h>
 #include <math.h>
